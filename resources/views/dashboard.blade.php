@@ -9,7 +9,7 @@
               <div class="mdc-layout-grid__cell stretch-card mdc-layout-grid__cell--span-3-desktop mdc-layout-grid__cell--span-4-tablet">
                 <div class="mdc-card info-card info-card--success">
                   <div class="card-inner">
-                    <h5 class="card-title">Product</h5>
+                    <h5 class="card-title">Product has been created in url tormof</h5>
                     <h5 class="font-weight-light pb-2 mb-1 border-bottom">{{$procount[0]->Count}}</h5>
                     <p class="tx-12 text-muted">48% Product </p>
                     <div class="card-icon-wrapper">
